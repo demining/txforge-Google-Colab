@@ -281,8 +281,11 @@ To learn more about how Casts work, read through the source code in the example 
 * [P2PKH - Pay to PubKeyHash](https://github.com/libitx/txforge/blob/master/src/casts/p2pkh.js)
 * [P2RPH - Pay to R-Puzzle Hash](https://github.com/libitx/txforge/blob/master/src/casts/p2rph.js)
 
-## License
 
-TxForge is open source and released under the [Apache-2 License](https://github.com/libitx/txforge/blob/master/LICENSE).
+----
 
-Copyright (c) 2020-2021 Chronos Labs Ltd.
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
